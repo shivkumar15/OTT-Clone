@@ -1,0 +1,67 @@
+.footpanel{
+    background-color: rgb(33, 30, 30);
+    height: 250px;
+    width: 100%;
+display: flex;    
+    /* justify-content: center; */
+    justify-content: space-between;
+}
+
+h4 {
+    color: white;
+}
+
+a {
+    color: rgba(208, 210, 212, 0.827);
+    font-size: 15px;
+}
+
+.GOOGLE {
+    color: white;
+    background-color: black;
+}
+
+.APP {
+    color: white;
+    background-color: black;
+  /* margin-bottom: 400px; */
+}
+
+.iconbox {
+   
+    height: 50px;
+    width: 10%;
+    justify-content: space-evenly;
+
+margin-left: 100px;
+margin-right: 200px;
+color: white;
+font-size: 30px;
+
+  
+
+}
+h4{
+    font-size:20px;
+   
+}
+
+h5 {
+    color: rgba(208, 210, 212, 0.827);
+}
+.icon1{
+    font-size: 30px;
+}
+p{
+    color: white;
+}
+.button{
+    margin-top: 10%;
+   justify-content: space-between;
+    height: 5%;
+    margin-right: 90ws;
+    display: flex;
+}
+.button1:hover{
+    background-color: white;
+}
