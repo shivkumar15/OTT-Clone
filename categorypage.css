@@ -1,0 +1,235 @@
+.main {
+    height: 1200px;
+    width: 100%;
+    background-color: rgb(22, 22, 24);
+    justify-content: space-between;
+
+}
+
+.frontrow {
+    height: 200px;
+    width: 100%;
+    background-color: rgb(40, 37, 37);
+}
+
+.front {
+    height: 50px;
+    width: 100%;
+}
+
+
+.frontrow {}
+
+h3 {
+    color: aliceblue;
+}
+
+.disney {
+    height: 3%;
+    width: 50vs;
+    background-image: url();
+}
+
+.row1 {
+    height: 12%;
+    width: 100%;
+    display: flex;
+
+    justify-content: space-between;
+}
+
+.hindi {
+    height: 250px;
+    width: 250px;
+    background-image: url(hindi.webp);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.english {
+    height: 250px;
+    width: 250px;
+    background-image: url(english.webp);
+    background-size: contain;
+    background-repeat: no-repeat;
+
+}
+
+.tamil {
+    height: 250px;
+    width: 250px;
+    background-image: url(tamil.webp);
+    background-size: contain;
+    background-repeat: no-repeat;
+
+}
+
+.telugu {
+    height: 250px;
+    width: 250px;
+    background-image: url(telugu.webp);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.malyalam {
+    background-image: url(malyalam.webp);
+    height: 250px;
+    width: 250px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.row2 {
+    height: 15%;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+
+
+}
+
+.box1 {
+    height: 250px;
+    width: 250px;
+
+    background-image: url(box1.webp);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.box2 {
+    background-image: url(box2.webp);
+    background-size: contain;
+    height: 250px;
+    width: 250px;
+    background-repeat: no-repeat;
+}
+
+.box3 {
+    background-image: url(box3.webp);
+    height: 250px;
+    width: 250px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.box4 {
+    height: 250px;
+    width: 250px;
+    background-image: url(box4.webp);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.box5 {
+    height: 250px;
+    width: 250px;
+    background-image: url(box5.webp);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.row3 {
+    justify-content: space-between;
+    display: flex;
+    width: 100%;
+    height: 12%;
+}
+
+.romance {
+    height: 250px;
+    width: 250px;
+    background-image: url(romance.webp);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.drama {
+    height: 250px;
+    width: 250px;
+    background-image: url(drama.webp);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.family {
+    height: 250px;
+    width: 250px;
+    background-image: url(family.webp);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.reality {
+    height: 250px;
+    width: 250px;
+    background-image: url(reality.webp);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.comedy {
+    height: 250px;
+    width: 250px;
+    background-image: url(comedy.webp);
+    background-size: contain;
+    background-repeat: no-repeat;
+
+
+}
+
+.row4 {
+    height: 15%;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    background-repeat: no-repeat;
+}
+
+.cricket {
+    background-image: url(cricket.webp);
+    background-size: contain;
+    height: 250px;
+    width: 250px;
+    background-repeat: no-repeat;
+}
+
+.football {
+    height: 250px;
+    width: 250px;
+    background-image: url(football.webp);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.kabaddi {
+    height: 250px;
+    width: 250px;
+    background-image: url(kabbadi.webp);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.mixed {
+    height: 250px;
+    width: 250px;
+    background-image: url(mixed.webp);
+    background-size: contain;
+    background-repeat: no-repeat;
+
+}
+
+.powerboating {
+    background-image: url(boating.webp);
+    background-size: contain;
+    height: 250px;
+    width: 250px;
+    background-repeat: no-repeat;
+}
+
+.div3 {
+
+    display: flex;
+    background-repeat: no-repeat;
+}
