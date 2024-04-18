@@ -1,3 +1,8 @@
+*{
+    margin:0;
+    padding:0;
+}
+
 .main {
     height: 1200px;
     width: 100%;
@@ -18,9 +23,10 @@
 }
 
 
-.frontrow {}
+/* .frontrow {} */
 
 h3 {
+   font-family: inter,sans-serif;
     color: aliceblue;
 }
 
@@ -232,4 +238,15 @@ h3 {
 
     display: flex;
     background-repeat: no-repeat;
+}
+
+.scaleUp-cat{
+    border-radius: 4px;
+   
+    transition-property: all ;
+    transition-duration: 0.5s;
+    transition-delay:0.2s ;
+}
+.scaleUp-cat:hover{
+     transform:scale(1.1);
 }
