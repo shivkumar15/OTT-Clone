@@ -3,212 +3,49 @@
   padding: 0;
   box-sizing: border-box;
   font-family: cursive;
+  overflow-x: hidden;
 }
 body{
-  background-color: aqua;
+  background-color: black;
 }
 .container{
   display: flex;
+  height: 35vh;
+  width: 100vw;
+  align-items: center;
+  gap: 1.2%;
 }
 .container2{
   display: flex;
+  height: 35vh;
+  width: 100vw;
+  align-items: center;
+  gap: 1.2%;
 }
 .container3{
   display: flex;
+  height: 35vh;
+  width: 100vw;
+  align-items: center;
+  gap: 1.2%;
 }
-.box7 {
-  display: flex;
-  justify-content: center;
-  justify-content: center;
-  flex-wrap: wrap;
-}
-
-.box7 img {
-  width: 200px;
-  height: 200px;
-  border: 2px solid #ff360036;
-  box-shadow: 4px 7px 7px 0px #ff360036;
-  cursor: pointer;
-  margin: 10px;
-  transition: 400ms;
-  object-fit: cover;
-}
-
-.box8 {
-  display: flex;
-  justify-content: center;
-  justify-content: center;
-  flex-wrap: wrap;
-}
-
-.box8 img {
-  width: 200px;
-  height: 200px;
-  border: 2px solid #ff360036;
-  box-shadow: 4px 7px 7px 0px #ff360036;
-  cursor: pointer;
-  margin: 10px;
-  transition: 400ms;
-  object-fit: cover;
-}
-
-.box9 {
-  display: flex;
-  justify-content: center;
-  justify-content: center;
-  flex-wrap: wrap;
-}
-
-.box9 img {
-  width: 200px;
-  height: 200px;
-  border: 2px solid #ff360036;
-  box-shadow: 4px 7px 7px 0px #ff360036;
-  cursor: pointer;
-  margin: 10px;
-  transition: 400ms;
-  object-fit: cover;
-}
-
-.box10 {
-  display: flex;
-  justify-content: center;
-  justify-content: center;
-  flex-wrap: wrap;
-}
-
-.box10 img {
-  width: 200px;
-  height: 200px;
-  border: 2px solid #ff360036;
-  box-shadow: 4px 7px 7px 0px #ff360036;
-  cursor: pointer;
-  margin: 10px;
-  transition: 400ms;
-  object-fit: cover;
-}
-
-.box11 {
-  display: flex;
-  justify-content: center;
-  justify-content: center;
-  flex-wrap: wrap;
-}
-
-.box11 img {
-  width: 200px;
-  height: 200px;
-  border: 2px solid #ff360036;
-  box-shadow: 4px 7px 7px 0px #ff360036;
-  cursor: pointer;
-  margin: 10px;
-  transition: 400ms;
-  object-fit: cover;
-}
-
-.box12 {
-  display: flex;
-  justify-content: center;
-  justify-content: center;
-  flex-wrap: wrap;
-}
-
-.box12 img {
-  width: 200px;
-  height: 200px;
-  border: 2px solid #ff360036;
-  box-shadow: 4px 7px 7px 0px #ff360036;
-  cursor: pointer;
-  margin: 10px;
-  transition: 400ms;
-  object-fit: cover;
-}
-.box15 {
-  display: flex;
-  justify-content: center;
-  justify-content: center;
-  flex-wrap: wrap;
-}
-
-.box15 img {
-  width: 200px;
-  height: 200px;
-  border: 2px solid #ff360036;
-  box-shadow: 4px 7px 7px 0px #ff360036;
-  cursor: pointer;
-  margin: 10px;
-  transition: 400ms;
-  object-fit: cover;
-}
-
-.box16 {
-  display: flex;
-  justify-content: center;
-  justify-content: center;
-  flex-wrap: wrap;
-}
-
-.box16 img {
-  width: 200px;
-  height: 200px;
-  border: 2px solid #ff360036;
-  box-shadow: 4px 7px 7px 0px #ff360036;
-  cursor: pointer;
-  margin: 10px;
-  transition: 400ms;
-  object-fit: cover;
-}
-
-.box17 {
-  display: flex;
-  justify-content: center;
-  justify-content: center;
-  flex-wrap: wrap;
-}
-
-.box17 img {
-  width: 200px;
-  height: 200px;
-  border: 2px solid #ff360036;
-  box-shadow: 4px 7px 7px 0px #ff360036;
-  cursor: pointer;
-  margin: 10px;
-  transition: 400ms;
-  object-fit: cover;
-}
-
-.box18 {
-  display: flex;
-  justify-content: center;
-  justify-content: center;
-  flex-wrap: wrap;
-}
-
-.box18 img {
-  width: 200px;
-  height: 200px;
-  border: 2px solid #ff360036;
-  box-shadow: 4px 7px 7px 0px #ff360036;
-  cursor: pointer;
-  margin: 10px;
-  transition: 400ms;
-  object-fit: cover;
-}
-
-.box19 {
-  display: flex;
-  justify-content: center;
-  justify-content: center;
-  flex-wrap: wrap;
-}
-
-.box19 img {
-  width: 200px;
-  height: 200px;
-  border: 2px solid #ff360036;
-  box-shadow: 4px 7px 7px 0px #ff360036;
-  cursor: pointer;
-  margin: 10px;
-  transition: 400ms;
-  object-fit: cover;
-}
+.box {
+  width: 18%;
+  height: 100%;
+  object-fit: contain;
+  overflow-y: hidden;
+  }
+  
+  .box img {
+    width: 100%;
+    height: 100%;
+    border: 2px solid #ff360036;
+    box-shadow: 4px 7px 7px 0px #ff360036;
+    cursor: pointer;
+    margin: 10px;
+    transition: 400ms;
+    aspect-ratio: 3/4;
+    /* object-fit: cover; */
+  }
+  
+  
