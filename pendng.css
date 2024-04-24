@@ -1,0 +1,161 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: black;
+}
+#main{
+    background-color: black
+    /* position: relative; */
+    /* left: 400px; */
+    /* top: 20px; */
+    /* text-transform: centre ; */
+     width: 100vw; 
+    height: 100vh;
+}
+ h1{ 
+    color: white;
+    font-size: 40px;
+    margin-left: 500px;
+
+     
+     
+     
+     
+ } 
+.one{ 
+    color: rgb(155, 130, 238);
+    margin-left: 550px;
+    font-size: 20px;
+     
+     
+     
+
+
+}
+#para{
+    width: 100ww;
+    height: 800px ;
+    display: flex;
+    justify-content: space-around;
+}
+#part1{
+    width: 40%;
+    height: 70%;
+    background-color: black;
+}
+#hunter1{
+    width: 400px;
+    height: 400px;
+    background-image: url("pending.png");
+    background-size: cover;
+    border-radius: 8%;
+    position: relative;
+    left: 90px; 
+    top: 20px;
+
+
+}
+#hunter2{
+    width:400px;
+}
+h2{
+    color: white;
+    text-transform: centre;
+    position: relative;
+    top: 5px;
+    left: 150px;
+     
+}
+.two{
+    color:rgb(155, 130, 238) ;
+    font-size: 20px;
+    position: relative;
+    left: 180px;
+}
+
+#part2{
+    width: 40%;
+    height: 70%;
+    background-color: black;
+}
+#god{
+    display: flex;
+    margin-top: 10px;
+   
+    
+    /*  */
+    /* width: 400px; */
+    height: 60px;
+
+}
+.x{
+    width: 100px;
+    border-radius: 10% ;
+    background-color: azure;
+    /* font-size: 600px; */
+}
+.y{
+    width: 500px;
+    border-radius: 8%;
+    background-color: grey;
+
+
+}
+#use{
+    color: rgb(155, 130, 238);
+    position:relative;
+    top: 100px;
+    right: 360px;
+    font-size: 20px;
+}
+/* .three{ */
+    /* margin-top: 700px; */
+    /* margin-left: 40px; */
+    /* color: rgb(155, 130, 238); */
+/*  */
+/*  */
+#vertical hr{
+    transform: rotate(90deg);
+    /* height: 300px; */
+    position: relative;
+    top: 250px;
+    right: 400px;
+
+
+}
+#bottle{
+    position: relative;
+    top: 200px;
+    right: 130px;
+    width: 100px;
+    height: 100px;
+    color: white;
+    background-color: black;
+    text-align: centre;
+    font-size: 50px;
+
+
+
+}
+#krishna{
+    width: 300px;
+    height: 100px;
+    background-color: rgba(0, 0, 0, 0);
+    color: rgb(191, 130, 238);
+    position: relative;
+    top: 350px;
+    right: -20px;
+    font-size: 20px;
+    display: flex;
+
+
+
+
+}
+.four{
+    color: blue;
+
+
+}
